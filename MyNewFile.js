@@ -1,1 +1,1 @@
-var arrNew = new Array();
+var arrNew = [];
