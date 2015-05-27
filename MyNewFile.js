@@ -1,1 +1,1 @@
-var arrNew = [];
+var arrNew = []
