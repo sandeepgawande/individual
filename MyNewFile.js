@@ -299,7 +299,7 @@ $(document).ready(function () {
     //$("#txtAddressLine2").blur(function () {
     //    $(this).removeAttr('required');
     //});
-
+    var t
     $("#txtCity").blur(function () {
         if (!ValidateFirstNameLastName($(this).val())) {
             $(this).attr("required", true);
