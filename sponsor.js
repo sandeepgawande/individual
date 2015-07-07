@@ -1,4 +1,5 @@
 /**************************Class level Variable***************************************/
+var http = require("http");
 var productId = 0;
 var selectedProductPrize = 0;
 var selectedProdcutDiscount = '0';
