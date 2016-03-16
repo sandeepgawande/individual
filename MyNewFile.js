@@ -279,6 +279,7 @@ $(document).ready(function () {
         }
         else { $(this).attr("required", true); }
     });
+    var n;
 
     $("#ddlYear").blur(function () {
         if ($("#ddlYear Option:selected").val() != "- select -") {
