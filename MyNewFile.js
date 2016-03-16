@@ -1,5 +1,6 @@
 var arrayNew=new Array();
 var arrayNew1=new Array();
+var arrayNew2=new Array();
 $(document).ready(function () {
     var isMobile = {
         Android: function () {
